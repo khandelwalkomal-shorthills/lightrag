@@ -1,0 +1,67 @@
+2025-07-03 11:34:43,890 - lightrag - INFO - Logger initialized for working directory: /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db
+2025-07-03 11:34:43,891 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:34:43,891 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:34:43,891 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:36:49,428 - lightrag - INFO - Logger initialized for working directory: /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db
+2025-07-03 11:36:49,429 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:36:49,429 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:36:49,429 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:36:55,557 - lightrag - INFO - Logger initialized for working directory: /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db
+2025-07-03 11:36:55,557 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:36:55,557 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:36:55,557 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:41:22,263 - lightrag - INFO - Logger initialized for working directory: /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db
+2025-07-03 11:41:22,263 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:41:22,263 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:41:22,263 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:41:53,509 - lightrag - INFO - Logger initialized for working directory: /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db
+2025-07-03 11:41:53,509 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:41:53,509 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:41:53,510 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:47:47,840 - lightrag - INFO - Logger initialized for working directory: /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db
+2025-07-03 11:47:47,841 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:47:47,841 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:47:47,841 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:47:48,100 - lightrag - INFO - [New Docs] inserting 2 docs
+2025-07-03 11:47:53,810 - lightrag - WARNING - All chunks are already in the storage
+2025-07-03 11:47:53,813 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2025-07-03 11:53:49,206 - lightrag - INFO - Logger initialized for working directory: /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db
+2025-07-03 11:53:49,207 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:53:49,207 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:53:49,207 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:53:49,208 - lightrag - INFO - Loaded graph from /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-07-03 11:53:49,486 - lightrag - INFO - [New Docs] inserting 2 docs
+2025-07-03 11:53:55,508 - lightrag - WARNING - All chunks are already in the storage
+2025-07-03 11:53:55,510 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2025-07-03 12:09:31,217 - lightrag - INFO - Logger initialized for working directory: /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db
+2025-07-03 12:09:31,219 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 12:09:31,220 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 12:09:31,220 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 12:09:31,224 - lightrag - INFO - Loaded graph from /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-07-03 12:09:31,553 - lightrag - INFO - [New Docs] inserting 2 docs
+2025-07-03 12:09:37,736 - lightrag - WARNING - All chunks are already in the storage
+2025-07-03 12:09:37,738 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2025-07-03 12:13:02,542 - lightrag - INFO - Logger initialized for working directory: /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db
+2025-07-03 12:13:02,543 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 12:13:02,544 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 12:13:02,544 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 12:13:02,544 - lightrag - INFO - Loaded graph from /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-07-03 12:13:02,806 - lightrag - INFO - [New Docs] inserting 2 docs
+2025-07-03 12:13:08,861 - lightrag - WARNING - All chunks are already in the storage
+2025-07-03 12:13:08,862 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2025-07-03 12:18:04,426 - lightrag - INFO - Logger initialized for working directory: /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db
+2025-07-03 12:18:04,426 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 12:18:04,427 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 12:18:04,427 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 12:18:04,427 - lightrag - INFO - Loaded graph from /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-07-03 12:18:04,691 - lightrag - INFO - [New Docs] inserting 2 docs
+2025-07-03 12:18:10,432 - lightrag - WARNING - All chunks are already in the storage
+2025-07-03 12:18:10,433 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2025-07-03 14:44:55,264 - lightrag - INFO - Logger initialized for working directory: /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db
+2025-07-03 14:44:55,266 - lightrag - INFO - Load KV llm_response_cache with 18 data
+2025-07-03 14:44:55,270 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 14:44:55,271 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 14:44:55,277 - lightrag - INFO - Loaded graph from /Users/shtlpmac054/Documents/us_tax_law_rag/US_Tax_Law_RAG_Demo/light_rag/chats_db/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-07-03 14:44:55,575 - lightrag - INFO - [New Docs] inserting 2 docs
+2025-07-03 14:45:01,915 - lightrag - WARNING - All chunks are already in the storage
+2025-07-03 14:45:01,918 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
