@@ -1,0 +1,64 @@
+2025-07-02 11:30:28,157 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-02 11:33:18,215 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 10:32:07,294 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 10:33:27,469 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 10:36:40,672 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 10:42:16,924 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 10:45:33,854 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 10:46:15,480 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 10:57:08,986 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 10:57:08,986 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 10:57:08,986 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 10:57:08,987 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:07:20,949 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 11:07:20,950 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:07:20,950 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:07:20,950 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:19:00,926 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 11:19:00,926 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:19:00,926 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:19:00,926 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:19:03,060 - lightrag - INFO - Creating a new event loop in main thread.
+2025-07-03 11:19:03,062 - lightrag - INFO - [New Docs] inserting 5 docs
+2025-07-03 11:19:37,294 - lightrag - INFO - [New Chunks] inserting 102 chunks
+2025-07-03 11:19:38,656 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2025-07-03 11:22:21,085 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 11:22:21,086 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:22:21,087 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:22:21,087 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:22:21,088 - lightrag - INFO - Loaded graph from ../chats_db/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-07-03 11:22:22,377 - lightrag - INFO - Creating a new event loop in main thread.
+2025-07-03 11:22:22,378 - lightrag - INFO - [New Docs] inserting 2 docs
+2025-07-03 11:22:27,605 - lightrag - INFO - [New Chunks] inserting 17 chunks
+2025-07-03 11:22:31,261 - lightrag - INFO - [Entity Extraction]...
+2025-07-03 11:22:33,550 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2025-07-03 11:25:16,885 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 11:25:16,890 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:25:16,891 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:25:16,891 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:25:16,892 - lightrag - INFO - Loaded graph from ../chats_db/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-07-03 11:25:18,179 - lightrag - INFO - Creating a new event loop in main thread.
+2025-07-03 11:25:18,179 - lightrag - INFO - [New Docs] inserting 2 docs
+2025-07-03 11:25:23,529 - lightrag - WARNING - All chunks are already in the storage
+2025-07-03 11:25:23,532 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2025-07-03 11:27:19,945 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 11:27:19,947 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:27:19,947 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:27:19,947 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:27:19,949 - lightrag - INFO - Loaded graph from ../chats_db/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-07-03 11:27:20,035 - lightrag - INFO - Creating a new event loop in main thread.
+2025-07-03 11:28:46,318 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 11:28:46,319 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:28:46,319 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:28:46,319 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:28:46,320 - lightrag - INFO - Loaded graph from ../chats_db/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-07-03 11:28:47,604 - lightrag - INFO - Creating a new event loop in main thread.
+2025-07-03 11:28:47,604 - lightrag - INFO - [New Docs] inserting 2 docs
+2025-07-03 11:28:56,688 - lightrag - WARNING - All chunks are already in the storage
+2025-07-03 11:28:56,689 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2025-07-03 11:29:18,864 - lightrag - INFO - Logger initialized for working directory: ../chats_db
+2025-07-03 11:29:18,865 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2025-07-03 11:29:18,866 - lightrag - INFO - Load KV full_docs with 0 data
+2025-07-03 11:29:18,866 - lightrag - INFO - Load KV text_chunks with 0 data
+2025-07-03 11:29:18,867 - lightrag - INFO - Loaded graph from ../chats_db/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2025-07-03 11:29:18,958 - lightrag - INFO - Creating a new event loop in main thread.

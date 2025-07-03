@@ -1,0 +1,8 @@
+.env
+light_rag/__pycache__
+document
+
+**.pdf
+**.json
+**.graphml
+**.out
